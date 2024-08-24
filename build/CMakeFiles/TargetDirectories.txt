@@ -1,0 +1,3 @@
+/Users/waleedalasad/Documents/GitHub/needle_cmu/build/CMakeFiles/ndarray_backend_cpu.dir
+/Users/waleedalasad/Documents/GitHub/needle_cmu/build/CMakeFiles/edit_cache.dir
+/Users/waleedalasad/Documents/GitHub/needle_cmu/build/CMakeFiles/rebuild_cache.dir
